@@ -1,0 +1,11 @@
+.vs/**
+MoviesAPI/bin/Debug/**
+MoviesAPI/bin/Release/**
+MoviesAPI/obj/Debug/**
+MoviesAPI/obj/Release/**
+*csproj.nuget.cache
+*csproj.nuget.dgspec.json
+*csproj.nuget.g.props
+*csproj.nuget.g.targets
+MoviesAPI/obj/project.assets.json
+MoviesAPI/obj/MoviesAPI.csproj.EntityFrameworkCore.targets
